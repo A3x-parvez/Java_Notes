@@ -1,4 +1,6 @@
 # Java_Notes
-## sources - Apna college java placement courses.
+## Sources - Apna College Java Placement Course
 
-Hello , recently i started revising my java concepts with DSA from a free course name "java placement course" organized by ApnaCollege . It is a free course available in apnacollege youtube Channel.So , here in this repository i save the java notes,practice program and problem and solution for my future helps and references.
+Hello, 
+
+Recently, I started revising my Java concepts along with Data Structures and Algorithms (DSA) from a free course called "Java Placement Course," organized by ApnaCollege. This course is available for free on ApnaCollege's YouTube channel. In this repository, I am saving my Java notes, practice programs, problems, and solutions for future reference and assistance.
