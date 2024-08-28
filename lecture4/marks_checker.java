@@ -8,6 +8,7 @@ public class marks_checker
         Scanner sc = new Scanner(System.in);
         int count=0;
         double marks=0;
+
         while (true) 
         {
             System.out.print("Enter the operation (1-take marks , 0-show marks/grade) :");
@@ -15,6 +16,7 @@ public class marks_checker
             
             if(op==1 || op==0)
             {
+
                 if((op ==0 && count==0) || op==1)
                 {
                    int n=op;
@@ -24,6 +26,7 @@ public class marks_checker
                       count++;
                       op++;
                   } while (op<=1*n);
+
                 }
                 else if(op==0 && count!=0)
                 {
